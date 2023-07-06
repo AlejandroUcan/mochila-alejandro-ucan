@@ -1,0 +1,8 @@
+Por que un lenguaje de programacion solo puede utilizarse en algunos sistemas operativos y en otros no?
+  R = Debido a los derechos que tienen las companias sobre los software que desarrollan.
+
+Que tipo de maquina virtual es virtualBox?
+  R = Hipervisor de tipo 2 [alojado]. Aplicacion que se ejecuta en el (SO) y ya esta instalada en un host.
+
+Si tengo mas de una maquina virtual instalada, y una se rompe, esto afecta a las demas? por que?
+  R = No afecta a ninguna de las otras maquinas instaladas, ya que cada maquina es una instancia separada. 
