@@ -1,0 +1,7 @@
+IP Privada: 10.0.2.15
+IP Pública: 10.0.2.255
+MAC: fe80::a00:27ff:fe98:b852/64
+
+Es diferente la IP pública y privada de nuestra máquina virtual?
+  R = Si, ya que no coinciden los datos al ejecutar el comando ifconfig en la VM y el ipconfig en Windows.
+
