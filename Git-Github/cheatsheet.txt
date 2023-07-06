@@ -1,0 +1,13 @@
+CHEATSHEET GIT GITHUB
+git init: Permite inicializar un nuevo repositorio
+git config: Permite configurar el usuario y correo a quien se asocia el commit
+git status: Permite listar los archivos que deben ser confirmados
+git add: Permite confirmar los archivos del working directory al staging area
+git restore: Permite descartar los archivos
+git commit: Permite generar una nueva versión en la rama
+git add remote origin: Permite definir la dirección del repositorio remoto
+git branch: Permite visualizar la rama actual
+git checkout: Permite moverse de rama o versión 
+git log: Permite listar el historial de versiones de la rama actual
+git push: Permite subir los cambios al repositorio remoto
+git pull: Permite bajar los cambios del repositorio remoto
